@@ -35,6 +35,7 @@
 
 ## Simple talker demo that listens to std_msgs/Strings published 
 ## to the 'chatter' topic
+# listener 예제코드 
 
 import rospy
 from std_msgs.msg import String
